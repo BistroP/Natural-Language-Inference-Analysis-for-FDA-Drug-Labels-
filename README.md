@@ -2,9 +2,6 @@
 
 **David Xu, Garv Goswami — UC Berkeley**
 
-[![Paper](https://img.shields.io/badge/paper-PDF-blue)](./Natural_Lang_Analysis_for_FDA_Drug_labels.pdf)
-[![Notebook](https://img.shields.io/badge/notebook-Colab-orange)](./drug_label_analysis_v5__6.ipynb)
-
 ---
 
 ## Overview
